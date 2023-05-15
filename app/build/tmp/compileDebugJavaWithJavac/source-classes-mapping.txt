@@ -1,0 +1,2 @@
+com/ankit/quizapp/BuildConfig.java
+ com.ankit.quizapp.BuildConfig
